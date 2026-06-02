@@ -1,0 +1,6 @@
+Django==6.0.5
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+python-dotenv==1.2.2
+google-generativeai==0.8.6
+djangorestframework-simplejwt==5.5.1
